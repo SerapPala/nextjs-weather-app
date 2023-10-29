@@ -1,5 +1,5 @@
 
-## Türkiye Hava Durumu Haritası Uygulaması
+## Türkiye Hava Durumu Uygulaması
 ![github](/public/map.png)
 ![github](/public/map-detail.png)
 # Projeyi ayağa kaldırmak için gerekli adımlar:
